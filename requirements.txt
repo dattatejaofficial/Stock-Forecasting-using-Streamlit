@@ -1,0 +1,9 @@
+pandas
+streamlit
+datetime
+yfinance
+matplotlib
+plotly
+bs4
+re
+requests
